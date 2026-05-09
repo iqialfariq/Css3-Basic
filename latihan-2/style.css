@@ -1,0 +1,17 @@
+.satu {
+  width: 300px;
+  height: 300px;
+  background-color: salmon;
+  opacity: 0.8;
+  position: relative;
+}
+
+.satu .dua {
+  width: 100px;
+  height: 100px;
+  background-color: darkcyan;
+  position: absolute;
+  right: -40px;
+  bottom: -40px;
+  opacity: 0.5;
+}

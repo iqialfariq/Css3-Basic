@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+img {
+  /* filter: blur(2px); */
+  /* filter: brightness(50%); */
+  /* filter: contrast(70%); */
+  /* filter: saturate(40%); */
+  /* filter: sepia(40%); */
+  /* filter: hue-rotate(100deg); */
+  filter: invert(100%);
+}

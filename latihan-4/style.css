@@ -1,0 +1,8 @@
+div {
+  width: 300px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: salmon;
+  /* x offset, y offset, blur, color */
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.76);
+}

@@ -1,0 +1,7 @@
+h1 {
+  font-size: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  /* x offset, y offset, blur, color */
+  text-shadow: 5px 5px 5px salmon;
+}

@@ -1,0 +1,20 @@
+.kotak {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  margin: 50px auto 0;
+  transition: 1s;
+}
+
+.kotak:hover {
+  /* angka awal sumbu X, angka akhir sumbu Y */
+  /* transform: scale(2, 0.4); */
+  /* transform: rotateY(100deg); */
+  /* transform: skew(20deg); */
+  transform: translate(20px, 90px);
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
