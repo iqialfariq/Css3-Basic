@@ -16,6 +16,33 @@ value Grid Template Column ada 2 yaitu:
 1) px.
 2) %.
 
+cara menuliskan value Border Radius:
+1 nilai → semua sudut sama.
+2 nilai → sudut atas-kiri & bawah-kanan | sudut atas-kanan & bawah-kiri.
+3 nilai → sudut atas-kiri | sudut atas-kanan & bawah-kiri | sudut bawah-kanan.
+4 nilai → sudut atas-kiri | sudut atas-kanan | sudut bawah-kanan | sudut bawah-kiri.
+
+  Contoh:
+  ```css
+      div {
+        width: 100px;
+        height: 100px;
+        border-radius: 10px;
+        background-color: salmon;
+      }
+  ```
+
+---
+
+### Border Radius
+<p align="justify">
+Untuk membuat sudut elemen menjadi melingkar atau membulat. Dengan kata lain, ia mengontrol tingkat kelengkungan sudut pada sebuah box (misalnya div, button, img). 
+</p>
+
+value Grid Template Column ada 2 yaitu:
+1) px.
+2) %.
+
   Contoh:
   ```css
       div {
