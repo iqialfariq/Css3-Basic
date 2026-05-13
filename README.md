@@ -211,29 +211,29 @@ value animation ada 8 yaitu :
 1) name → nama animasi yang didefinisikan di @keyframes. Contoh: fadeIn, slideUp.
 2) duration → lama animasi berlangsung. Contoh: 2s, 500ms.
 3) timing-function → pola kecepatan animasi.
-   • linear → kecepatan konstan. 
-   • ease → default, halus di awal dan akhir. 
-   • ease-in → mulai lambat, lalu cepat. 
-   • ease-out → mulai cepat, lalu melambat. 
-   • ease-in-out → kombinasi lambat → cepat → lambat.
+   - linear → kecepatan konstan. 
+   - ease → default, halus di awal dan akhir. 
+   - ease-in → mulai lambat, lalu cepat. 
+   - ease-out → mulai cepat, lalu melambat. 
+   - ease-in-out → kombinasi lambat → cepat → lambat.
 4) delay → jeda sebelum animasi dimulai.
    Contoh: 1s.
 5) iteration-count → jumlah pengulangan. 
-   • Angka (1, 3, dll). 
-   • infinite → berulang tanpa henti.
+   - Angka (1, 3, dll). 
+   - infinite → berulang tanpa henti.
 6) direction → arah animasi
-   • normal → default. 
-   • reverse → berjalan mundur. 
-   • alternate → maju lalu mundur. 
-   • alternate-reverse → mundur lalu maju.
+   - normal → default. 
+   - reverse → berjalan mundur. 
+   - alternate → maju lalu mundur. 
+   - alternate-reverse → mundur lalu maju.
 7) fill-mode → menentukan gaya elemen sebelum / sesudah animasi.
-   • none → tidak ada efek tambahan. 
-   • forwards → tetap pada kondisi akhir animasi. 
-   • backwards → mengambil kondisi awal animasi saat delay. 
-   • both → gabungan forwards + backwards.
+   - none → tidak ada efek tambahan. 
+   - forwards → tetap pada kondisi akhir animasi. 
+   - backwards → mengambil kondisi awal animasi saat delay. 
+   - both → gabungan forwards + backwards.
 8) play-state → status animasi.
-   • running → berjalan. 
-   • paused → berhenti sementara. 
+   - running → berjalan. 
+   - paused → berhenti sementara. 
 
 
   Contoh:
