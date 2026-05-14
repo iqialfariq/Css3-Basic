@@ -144,14 +144,14 @@ brightness, contrast, dll).
 </p>
 
 value Filter ada 9  yaitu:
-1) Blur
-2) Brightness
-3) Contrast
-4) Grayscale
-5) Invert
-6) Opacity
-7) Saturate
-8) Sepia
+1) Blur.
+2) Brightness.
+3) Contrast.
+4) Grayscale.
+5) Invert.
+6) Opacity.
+7) Saturate.
+8) Sepia.
 9) drop-shadow.
 
   Contoh:
@@ -170,10 +170,10 @@ tidak memengaruhi layout elemen lain, hanya tampilan visual elemen tersebut.
 </p>
 
 value Transform ada 5 yaitu:
-1) translate
-2) rotate
-3) scale
-4) skew
+1) translate.
+2) rotate.
+3) scale.
+4) skew.
 5) matrix.
 
   Contoh:
@@ -223,7 +223,7 @@ value animation ada 8 yaitu :
 5) iteration-count → jumlah pengulangan. 
    - Angka (1, 3, dll). 
    - infinite → berulang tanpa henti.
-6) direction → arah animasi
+6) direction → arah animasi.
    - normal → default. 
    - reverse → berjalan mundur. 
    - alternate → maju lalu mundur. 
