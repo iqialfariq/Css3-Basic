@@ -255,5 +255,3 @@ value animation ada 8 yaitu :
          animation: geser 2s ease-in-out infinite alternate;
       }
   ```
-
----
