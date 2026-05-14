@@ -7,7 +7,7 @@ CSS3 adalah istilah untuk versi lanjutan dari CSS yang memperkenalkan banyak fit
 
 ## 📌 Property dan Value CSS 3
 
-### Border Radius
+### 🔲 Border Radius
 <p align="justify">
 Untuk membuat sudut elemen menjadi melingkar atau membulat. Dengan kata lain, ia mengontrol tingkat kelengkungan sudut pada sebuah box (misalnya div, button, img). 
 </p>
@@ -34,7 +34,7 @@ Cara menuliskan value Border Radius:
 
 ---
 
-### Opacity
+### 🌫️ Opacity
 <p align="justify">
 untuk mengatur tingkat transparansi suatu elemen. Nilainya berupa angka antara 0.0 (sepenuhnya transparan) hingga 1.0 (sepenuhnya terlihat). value
 opacity ada diantara nilai nol dan satu, seperti 0,5. untuk nol transparan sekali, dan untuk 1 solid sekali. 
@@ -53,7 +53,7 @@ opacity ada diantara nilai nol dan satu, seperti 0,5. untuk nol transparan sekal
 
 ---
 
-### Rgba dan Hsla 
+### 🎨 Rgba dan Hsla 
 <p align="justify">
 rgba: digunakan untuk membuat warna transparan tanpa memengaruhi teks atau konten lain. Misalnya background transparan tapi teks tetap jelas.
 hsla: digunakan untuk membuat palet warna konsisten → cukup ubah nilai hue untuk variasi warna. Misalnya branding dengan satu hue, lalu variasi
@@ -73,7 +73,7 @@ terang/gelap.
 
 ---
 
-### Box Shadow
+### 🪞 Box Shadow
 <p align="justify">
 untuk menambahkan bayangan pada elemen. Bayangan ini bisa diatur arah, ukuran, warna, dan tingkat blur-nya sehingga memberi efek kedalaman (depth) atau
 tampilan modern pada desain. 
@@ -96,7 +96,7 @@ value Box Shadow ada 6 yaitu:
 
 ---
 
-### Text Shadow 
+### ✍️ Text Shadow 
 <p align="justify">
 untuk memberikan bayangan pada teks. Dengan ini, teks bisa terlihat lebih menonjol, memiliki efek 3D, glow, atau artistik sesuai kebutuhan desain.  
 </p>
@@ -116,7 +116,7 @@ value Text Shadow ada 4 yaitu:
 
 ---
 
-### Font Face 
+### 🔤 Font Face 
 <p align="justify">
 adalah aturan CSS yang memungkinkan kita memuat dan menggunakan custom font di website, meskipun font tersebut tidak terpasang di komputer pengguna. 
 Dengan ini, desainer bisa menjaga konsistensi tipografi sesuai branding tanpa bergantung pada font bawaan sistem.  
@@ -135,7 +135,7 @@ Dengan ini, desainer bisa menjaga konsistensi tipografi sesuai branding tanpa be
 
 ---
 
-### Filter 
+### 🧪 Filter 
 <p align="justify">
 untuk memberikan efek visual pada elemen, terutama gambar, teks, atau container. Efek ini mirip dengan filter di aplikasi editing foto (blur, 
 brightness, contrast, dll). 
@@ -161,7 +161,7 @@ value Filter ada 9  yaitu:
 
 ---
 
-### Transform 
+### 🔄 Transform 
 <p align="justify">
 untuk mengubah tampilan elemen dengan operasi 2D atau 3D, seperti memutar, memperbesar, memperkecil, memiringkan, atau menggeser. Transformasi ini
 tidak memengaruhi layout elemen lain, hanya tampilan visual elemen tersebut.
@@ -183,7 +183,7 @@ value Transform ada 5 yaitu:
 
 ---
 
-### Transition  
+### ⏩ Transition  
 <p align="justify">
 untuk membuat efek animasi halus ketika suatu elemen berubah dari satu state ke state lain. Misalnya saat hover, focus, atau ketika class berubah. 
 Tanpa transition, perubahan terjadi seketika. Dengan transition, perubahan berlangsung perlahan sesuai durasi dan pola yang ditentukan.
@@ -201,7 +201,7 @@ Tanpa transition, perubahan terjadi seketika. Dengan transition, perubahan berla
 
 ---
 
-### Animation 
+### 🎬 Animation 
 <p align="justify">
 untuk membuat animasi kompleks dengan mengontrol perubahan gaya elemen dari waktu ke waktu. Animasi ini biasanya didefinisikan menggunakan @keyframes,
 lalu dipanggil dengan animation. 
