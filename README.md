@@ -36,7 +36,7 @@ Cara menuliskan value Border Radius:
 
 ### 🌫️ Opacity
 <p align="justify">
-untuk mengatur tingkat transparansi suatu elemen. Nilainya berupa angka antara 0.0 (sepenuhnya transparan) hingga 1.0 (sepenuhnya terlihat). value
+Untuk mengatur tingkat transparansi suatu elemen. Nilainya berupa angka antara 0.0 (sepenuhnya transparan) hingga 1.0 (sepenuhnya terlihat). value
 opacity ada diantara nilai nol dan satu, seperti 0,5. untuk nol transparan sekali, dan untuk 1 solid sekali. 
 </p>
 
@@ -55,8 +55,8 @@ opacity ada diantara nilai nol dan satu, seperti 0,5. untuk nol transparan sekal
 
 ### 🎨 Rgba dan Hsla 
 <p align="justify">
-rgba: digunakan untuk membuat warna transparan tanpa memengaruhi teks atau konten lain. Misalnya background transparan tapi teks tetap jelas.
-hsla: digunakan untuk membuat palet warna konsisten → cukup ubah nilai hue untuk variasi warna. Misalnya branding dengan satu hue, lalu variasi
+Rgba: Digunakan untuk membuat warna transparan tanpa memengaruhi teks atau konten lain. Misalnya background transparan tapi teks tetap jelas.
+Hsla: Digunakan untuk membuat palet warna konsisten → cukup ubah nilai hue untuk variasi warna. Misalnya branding dengan satu hue, lalu variasi
 terang/gelap. 
 </p>
 
@@ -75,7 +75,7 @@ terang/gelap.
 
 ### 🪞 Box Shadow
 <p align="justify">
-untuk menambahkan bayangan pada elemen. Bayangan ini bisa diatur arah, ukuran, warna, dan tingkat blur-nya sehingga memberi efek kedalaman (depth) atau
+Untuk menambahkan bayangan pada elemen. Bayangan ini bisa diatur arah, ukuran, warna, dan tingkat blur-nya sehingga memberi efek kedalaman (depth) atau
 tampilan modern pada desain. 
 </p>
 
@@ -98,7 +98,7 @@ value Box Shadow ada 6 yaitu:
 
 ### ✍️ Text Shadow 
 <p align="justify">
-untuk memberikan bayangan pada teks. Dengan ini, teks bisa terlihat lebih menonjol, memiliki efek 3D, glow, atau artistik sesuai kebutuhan desain.  
+Untuk memberikan bayangan pada teks. Dengan ini, teks bisa terlihat lebih menonjol, memiliki efek 3D, glow, atau artistik sesuai kebutuhan desain.  
 </p>
 
 value Text Shadow ada 4 yaitu:
@@ -118,7 +118,7 @@ value Text Shadow ada 4 yaitu:
 
 ### 🔤 Font Face 
 <p align="justify">
-adalah aturan CSS yang memungkinkan kita memuat dan menggunakan custom font di website, meskipun font tersebut tidak terpasang di komputer pengguna. 
+Adalah aturan CSS yang memungkinkan kita memuat dan menggunakan custom font di website, meskipun font tersebut tidak terpasang di komputer pengguna. 
 Dengan ini, desainer bisa menjaga konsistensi tipografi sesuai branding tanpa bergantung pada font bawaan sistem.  
 </p>
 
@@ -137,7 +137,7 @@ Dengan ini, desainer bisa menjaga konsistensi tipografi sesuai branding tanpa be
 
 ### 🧪 Filter 
 <p align="justify">
-untuk memberikan efek visual pada elemen, terutama gambar, teks, atau container. Efek ini mirip dengan filter di aplikasi editing foto (blur, 
+Untuk memberikan efek visual pada elemen, terutama gambar, teks, atau container. Efek ini mirip dengan filter di aplikasi editing foto (blur, 
 brightness, contrast, dll). 
 </p>
 
@@ -163,7 +163,7 @@ value Filter ada 9  yaitu:
 
 ### 🔄 Transform 
 <p align="justify">
-untuk mengubah tampilan elemen dengan operasi 2D atau 3D, seperti memutar, memperbesar, memperkecil, memiringkan, atau menggeser. Transformasi ini
+Untuk mengubah tampilan elemen dengan operasi 2D atau 3D, seperti memutar, memperbesar, memperkecil, memiringkan, atau menggeser. Transformasi ini
 tidak memengaruhi layout elemen lain, hanya tampilan visual elemen tersebut.
 </p>
 
@@ -185,7 +185,7 @@ value Transform ada 5 yaitu:
 
 ### ⏩ Transition  
 <p align="justify">
-untuk membuat efek animasi halus ketika suatu elemen berubah dari satu state ke state lain. Misalnya saat hover, focus, atau ketika class berubah. 
+Untuk membuat efek animasi halus ketika suatu elemen berubah dari satu state ke state lain. Misalnya saat hover, focus, atau ketika class berubah. 
 Tanpa transition, perubahan terjadi seketika. Dengan transition, perubahan berlangsung perlahan sesuai durasi dan pola yang ditentukan.
 </p>
 
@@ -203,7 +203,7 @@ Tanpa transition, perubahan terjadi seketika. Dengan transition, perubahan berla
 
 ### 🎬 Animation 
 <p align="justify">
-untuk membuat animasi kompleks dengan mengontrol perubahan gaya elemen dari waktu ke waktu. Animasi ini biasanya didefinisikan menggunakan @keyframes,
+Untuk membuat animasi kompleks dengan mengontrol perubahan gaya elemen dari waktu ke waktu. Animasi ini biasanya didefinisikan menggunakan @keyframes,
 lalu dipanggil dengan animation. 
 </p>
 
