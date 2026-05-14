@@ -55,8 +55,9 @@ opacity ada diantara nilai nol dan satu, seperti 0,5. untuk nol transparan sekal
 
 ### 🎨 Rgba dan Hsla 
 <p align="justify">
-- Rgba: Digunakan untuk membuat warna transparan tanpa memengaruhi teks atau konten lain. Misalnya background transparan tapi teks tetap jelas.
-- Hsla: Digunakan untuk membuat palet warna konsisten → cukup ubah nilai hue untuk variasi warna. Misalnya branding dengan satu hue, lalu variasi
+Rgba: Digunakan untuk membuat warna transparan tanpa memengaruhi teks atau konten lain. Misalnya background transparan tapi teks tetap jelas.
+   
+Hsla: Digunakan untuk membuat palet warna konsisten → cukup ubah nilai hue untuk variasi warna. Misalnya branding dengan satu hue, lalu variasi
 terang/gelap. 
 </p>
 
